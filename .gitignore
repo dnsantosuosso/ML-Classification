@@ -13,7 +13,7 @@
 *.pyc
 *.bak
 mnist/
-data/
+data/obj/
 caffe/
 grasp/
 images/
