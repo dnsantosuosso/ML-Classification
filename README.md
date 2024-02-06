@@ -1,5 +1,12 @@
 # Trash Detection Using Yolov: ML and CV
 
+## Demo Video
+You can find a demo video [here] (https://drive.google.com/file/d/17cY-0uWKe79ZZ7QpVN68o5ODuuwlq44U/view?usp=sharing)
+
+## Project Report
+You can find a detailed project report [here] (https://drive.google.com/file/d/1idQl8_jzbQMLlhJBad9VnitlaxBVqE1R/view?usp=sharing)
+
+
 ## (Neural Networks for Object Detection)
 
 * Paper **YOLOv7**: https://arxiv.org/abs/2207.02696
